@@ -25,7 +25,7 @@ SECRET_KEY = '^+4t4^^=zb3d3_25qksj0ipbmug#plh*!=&l19tsi@)sx9dday'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://saharshapp2.herokuapp.com/','saharshapp2.herokuapp.com']
 
 mimetypes.add_type('text/css','.css')
 # Application definition
